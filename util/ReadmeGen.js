@@ -32,13 +32,13 @@ class MarkDown {
 
 ${this.renderLicenseBadge(answers.license)}
 
-## Table of Content
-- [Project Description](#Description)
-- [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Installation](#Installation)
-- [Questions](#Questions)
-- [License] (#License)
+# Table of Content
+- [Project Description](#description)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Installation](#installation)
+- [Questions](#questions)
+- [License] (#license)
 
 ## Description
 ${answers.description}
