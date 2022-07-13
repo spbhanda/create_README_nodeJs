@@ -53,8 +53,9 @@ ${answers.installation}
 ${answers.contributing}
 
 ## Questions
-${answers.email}
-${answers.github}
+${answers.email} |${answers.github}
+
+
 
 ## License
 ${answers.license}

@@ -30,9 +30,9 @@ const questions = [
       name: "license",
       message: "license?",
       choices: ["MIT", "ISC", "GNUPLv3"],
-      filter(val) {
-         return val.toLowerCase();
-      },
+      // filter(val) {
+      //    return val.toLowerCase();
+      // },
    },
    {
       type: "input",
@@ -47,8 +47,8 @@ const questions = [
 
    {
       type: "input",
-      name: "username",
-      message: "Github username?",
+      name: "github",
+      message: "What is your Github username?",
    },
    {
       type: "input",
