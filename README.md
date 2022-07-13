@@ -1,7 +1,7 @@
 
 # README.md-Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 # Table of Content
 - [Project Description](#description)
@@ -27,5 +27,5 @@ A user can clone the app and re-use it.
 spbhanda@gmail.com |spbhanda
 
 ## License
-MIT
+ISC
       
