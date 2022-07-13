@@ -1,5 +1,5 @@
 
-# X
+# README.md-Generator
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
@@ -12,19 +12,19 @@
 - [License] (#license)
 
 ## Description
-X
+This app will allows a user to create a professional README.md file
 
 ## Usage
-X
+You can run in gitbash or terminal in order to run the app. It doesn't need to work on HTML file. 
 
 ## Installation
-X
+nmp, inquire, javascript and fs
 
 ## Contributing
-X
+One can clone the app and re-use it. 
 
 ## Questions
-X
+spbhanda@gmail.com
 undefined
 
 ## License
